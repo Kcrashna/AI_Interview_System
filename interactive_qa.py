@@ -1,4 +1,3 @@
-# interactive_qa.py
 
 import pandas as pd
 from transformers import T5Tokenizer, T5ForConditionalGeneration
